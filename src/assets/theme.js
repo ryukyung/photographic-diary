@@ -9,6 +9,7 @@ const color = {
 const font = {
   default: 'KOTRAHOPE',
   user: 'KyoboHandwriting2021sjy',
+  point: 'Shadows Into Light',
 };
 const weight = {
   bold: '600',
